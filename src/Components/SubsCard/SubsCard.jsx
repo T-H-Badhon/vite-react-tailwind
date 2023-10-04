@@ -26,7 +26,7 @@ const SubsCard = () => {
               ]
             },
         { id: 3, 
-            price: 60, 
+            price: 90, 
             gymFeatures : [
                 'Cardio Equipment',
                 'Weightlifting Area',
